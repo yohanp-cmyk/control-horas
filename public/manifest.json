@@ -1,0 +1,12 @@
+{
+  "name": "Timely — Control de Horas",
+  "short_name": "Timely",
+  "description": "Registro de horas laboradas para tu equipo",
+  "theme_color": "#0f0c08",
+  "background_color": "#0f0c08",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
